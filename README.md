@@ -1,5 +1,6 @@
 # Simple shell
-Project was completed using
+
+# Project was completed using
 C language
 Shell
 Betty linter
