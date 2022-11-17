@@ -1,9 +1,9 @@
 # Simple shell
 This is a project meant to be an emulation of the normal Linux shell.
 # Project was completed using
-C language
-Shell
-Betty linter
+- C language
+- Shell
+- Betty linter
 
 # General Requirement for project
 
