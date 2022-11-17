@@ -1,11 +1,11 @@
 # Simple shell
 This is a project meant to be an emulation of the normal Linux shell.
-# Project was completed using
+## Project was completed using
 - C language
 - Shell
 - Betty linter
 
-# General Requirement for project
+## General Requirement for project
 
 All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All files should end with a new line
