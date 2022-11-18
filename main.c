@@ -36,7 +36,8 @@ void run_command(char *command)
 	perror("Error");
 	exit(EXIT_FAILURE);
 	free(command_path);
-
+	free(command);
+	free(execution_arguments);
 }
 /**
  * main - starting point of the project
@@ -86,6 +87,7 @@ int main(int argc, char **argv)
 	{
 		free(command_holder);
 		free(clean_command_holder);
+		free(command);
 	}
 	printf("\n");
 	return (0);
